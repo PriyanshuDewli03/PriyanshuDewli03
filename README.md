@@ -71,10 +71,6 @@ Turning Data into Actionable Business Insights 📊
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
@@ -96,48 +92,20 @@ Turning Data into Actionable Business Insights 📊
 ### 🛒 Walmart Sales Forecasting
 Forecasted future sales using **ARIMA, SARIMA & XGBoost**, helping identify seasonal trends and improve prediction accuracy.
 
----
-
 ### 🤖 Customer Churn Prediction
 Built a **Deep Learning** model using **TensorFlow/Keras** to predict customer churn based on customer demographics, service usage, and payment behavior. Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and model evaluation to identify high-risk customers and support proactive retention strategies.
-
----
 
 ### 🎬 Netflix Recommendation System
 Built a recommendation engine using **Collaborative Filtering (SVD)** to provide personalized movie recommendations.
 
----
-
 ### 📈 Power BI Sales Dashboard
 Designed an interactive dashboard to monitor KPIs, sales performance, and business trends for better decision-making.
-
----
 
 ### 🦠 COVID-19 Data Analysis
 Performed exploratory data analysis and created insightful visualizations to identify pandemic trends.
 
----
-
 ### 🗄 SQL Business Case Studies
 Solved real-world business problems using SQL queries, joins, window functions, CTEs, and aggregations.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
 
 ---
 
