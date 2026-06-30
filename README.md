@@ -1,80 +1,153 @@
-# Hi 👋, I'm Priyanshu Dewli
+<h1 align="center">Hi 👋, I'm Priyanshu Dewli</h1>
 
-### 📊 Business Analyst | Data Analyst | Business Intelligence | Data Science Enthusiast
+<h3 align="center">
+Business Analyst | Data Analyst | Business Intelligence | Data Science Enthusiast
+</h3>
 
-Passionate about turning data into actionable business insights through analytics, dashboards, and machine learning.
+<p align="center">
+Turning Data into Actionable Business Insights 📊
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Business Analyst**
-- 🌱 Learning **Machine Learning, GenAI & Data Engineering**
-- 💡 Interested in Business Intelligence, Analytics & Data Science
-- 📊 Building Power BI dashboards, SQL projects & ML models
+- 🌱 Currently learning **Machine Learning, GenAI & Data Engineering**
+- 💡 Passionate about **Business Intelligence, Analytics & Data Science**
+- 📊 Building **Power BI Dashboards, SQL Projects & Machine Learning Models**
 - 💬 Ask me about **SQL, Python, Power BI, Excel, Tableau & Data Analytics**
-- 📫 **priyanshudewli100@gmail.com**
+- 📫 Reach me at **priyanshudewli100@gmail.com**
+- 📍 Gurugram, Haryana, India
+- ⚡ Fun Fact: *I enjoy turning messy datasets into meaningful business stories.*
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/priyanshu-dewli-36913025a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Dewli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:priyanshudewli100@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-priyanshudewli100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
 </a>
+
 </p>
 
-## 🛠 Tech Stack
+---
 
-### Languages
-- Python
-- SQL
+## 🛠 Languages and Tools
 
-### Analytics & BI
-- Power BI
-- Tableau
-- Advanced Excel
-- Google Sheets
+### 💻 Programming
 
-### Data Science
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
 
-### Tools
-- Salesforce CRM
-- Git
-- GitHub
+### 📊 Business Intelligence
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+</p>
+
+### 🤖 Data Science
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+### ⚙️ Other Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-📊 Walmart Sales Forecasting
+### 🛒 Walmart Sales Forecasting
+Forecasted future sales using **ARIMA, SARIMA & XGBoost**, helping identify seasonal trends and improve prediction accuracy.
 
-🎬 Netflix Recommendation System
+### 🎬 Netflix Recommendation System
+Built a recommendation engine using **Collaborative Filtering (SVD)** to provide personalized movie recommendations.
 
-📈 Power BI Sales Dashboard
+### 📈 Power BI Sales Dashboard
+Designed an interactive dashboard to monitor KPIs, sales performance, and business trends for better decision-making.
 
-🦠 COVID-19 Data Analysis
+### 🦠 COVID-19 Data Analysis
+Performed exploratory data analysis and created insightful visualizations to identify pandemic trends.
 
-🗄 SQL Business Case Studies
+### 🗄 SQL Business Case Studies
+Solved real-world business problems using SQL queries, joins, window functions, CTEs, and aggregations.
 
 ---
 
 ## 📊 GitHub Stats
 
-(Your GitHub Stats Cards)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshuDewli03&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDewli03&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💭 Quote
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDewli03&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuDewli03&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 💡 Quote
 
 > *"Turning data into decisions, one insight at a time."*
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+Let's connect and build data-driven solutions together 🚀
+</p>
