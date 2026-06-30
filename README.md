@@ -50,10 +50,6 @@ Turning Data into Actionable Business Insights 📊
 ### 📊 Business Intelligence
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel,googlesheets"/>
-</p>
-
-<p align="left">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
