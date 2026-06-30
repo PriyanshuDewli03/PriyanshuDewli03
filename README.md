@@ -106,37 +106,7 @@ Solved real-world business problems using SQL queries, joins, window functions, 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshuDewli03&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuDewli03&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDewli03&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuDewli03&theme=tokyo-night"/>
-
-</p>
-
----
 
 ## 💡 Quote
 
