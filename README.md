@@ -19,9 +19,15 @@ Passionate about turning data into actionable business insights through analytic
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
+<p align="left">
+<a href="https://www.linkedin.com/in/priyanshu-dewli-36913025a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Dewli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="mailto:priyanshudewli100@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-priyanshudewli100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ## 🛠 Tech Stack
 
