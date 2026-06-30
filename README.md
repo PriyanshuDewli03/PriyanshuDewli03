@@ -98,11 +98,11 @@ Built a **Deep Learning** model using **TensorFlow/Keras** to predict customer c
 ### 🎬 Netflix Recommendation System
 Built a recommendation engine using **Collaborative Filtering (SVD)** to provide personalized movie recommendations.
 
-### 📈 Power BI Sales Dashboard
-Designed an interactive dashboard to monitor KPIs, sales performance, and business trends for better decision-making.
-
 ### 🦠 COVID-19 Data Analysis
 Performed exploratory data analysis and created insightful visualizations to identify pandemic trends.
+
+### 📈 Power BI Sales Dashboard
+Designed an interactive dashboard to monitor KPIs, sales performance, and business trends for better decision-making.
 
 ### 🗄 SQL Business Case Studies
 Solved real-world business problems using SQL queries, joins, window functions, CTEs, and aggregations.
